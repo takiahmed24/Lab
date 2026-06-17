@@ -3,7 +3,7 @@ Software Engineering Lab
 # 👋 Hello, I'm Muhammad Taki Ahmed
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student; AIUB+-+American+International+University-Bangladesh;Passionate+About+AI+%26+Software+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AIUB+-+American+International+University-Bangladesh;Passionate+About+AI+%26+Software+Development" alt="Typing SVG" />
 </p>
 
 ---
